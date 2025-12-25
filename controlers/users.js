@@ -1,7 +1,7 @@
 import fs from 'fs/promises'
 import express from "express"
 import path from 'path'
-import { readUsers, newId, writeUsersToFile, validateUser} from '../utils/userfunctions.js'
+import { readUsers, newId, writeUsersToFile, validateUser} from '../utils/userFunctions.js'
 
 
 
